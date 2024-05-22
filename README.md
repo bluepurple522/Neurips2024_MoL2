@@ -12,8 +12,11 @@ PhysioNet Apnea-ECG Database : <https://physionet.org/content/apnea-ecg/1.0.0/>
 
 ## 3. Experiments Settings
 | CPU | Intel Xeon Silver 4215R CPU @3.20GHz |
+| ------------- | ------------- |
 | GPU | NVIDIA RTX A6000 |
+| ------------- | ------------- |
 | Server | Ubuntu 20.04.6 LTS |
+| ------------- | ------------- |
 | Environment | Python 3.7.16, PyTorch 1.12.9 |
 
 ## 4. Code Description
