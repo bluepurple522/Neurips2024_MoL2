@@ -19,7 +19,7 @@ PhysioNet Apnea-ECG Database : <https://physionet.org/content/apnea-ecg/1.0.0/>
 | Environment | Python 3.7.16, PyTorch 1.12.9 |
 
 ## 4. Code Description
-* base_data Folder : It contains the raw ECG signal data.
+* You must download the data before using the code.
 * filter Folder : This folder contains the code that processes the original ECG signal using filter and the code that we visualized in the time and frequency domain using the order of filter in this paper.
 * MTF_encoding Folder : This folder contains code that divides ECG signals into 1-minute increments and converts them into image data using the MTF algorithm.
 * Model_train&test Folder : This folder contains code to train and test the model based on transfer learning.
