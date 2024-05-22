@@ -21,4 +21,4 @@ PhysioNet Apnea-ECG Database : <https://physionet.org/content/apnea-ecg/1.0.0/>
 * filter Folder : This folder contains the code that processes the original ECG signal using filter and the code that we visualized in the time and frequency domain using the order of filter in this paper.
 * MTF_encoding Folder : This folder contains code that divides ECG signals into 1-minute increments and converts them into image data using the MTF algorithm.
 * Model_train&test Folder : This folder contains code to train and test the model based on transfer learning.
-####* Each code is set up to allow the user to modify as desired, and contains the structure of the MoL2 model designed in this paper.
+* Each code is set up to allow the user to modify as desired, and contains the structure of the MoL2 model designed in this paper.
